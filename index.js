@@ -1,4 +1,4 @@
-const api_key = "b1ecc3b1cf71071d5fdfa39e706cf8ec";
+const api_key = "paste you api key";
 const unitSymbol = "°C";
 const windUnit = "m/s";
 
